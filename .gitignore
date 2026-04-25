@@ -10,3 +10,4 @@ wheels/
 .venv
 .env
 xml_proofreader.egg-info
+.idea
